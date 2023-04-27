@@ -1,0 +1,8 @@
+*.xlsx
+*.exe
+*.txt
+*.spec
+
+/backups/
+/build/
+/dist/
